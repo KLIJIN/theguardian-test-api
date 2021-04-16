@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/theguardian-test-api/static/css/main.ccb56e80.chunk.css",
+    "main.js": "/theguardian-test-api/static/js/main.b76a978f.chunk.js",
+    "main.js.map": "/theguardian-test-api/static/js/main.b76a978f.chunk.js.map",
+    "runtime-main.js": "/theguardian-test-api/static/js/runtime-main.41ad2fb8.js",
+    "runtime-main.js.map": "/theguardian-test-api/static/js/runtime-main.41ad2fb8.js.map",
+    "static/js/2.6737b86d.chunk.js": "/theguardian-test-api/static/js/2.6737b86d.chunk.js",
+    "static/js/2.6737b86d.chunk.js.map": "/theguardian-test-api/static/js/2.6737b86d.chunk.js.map",
+    "index.html": "/theguardian-test-api/index.html",
+    "static/css/main.ccb56e80.chunk.css.map": "/theguardian-test-api/static/css/main.ccb56e80.chunk.css.map",
+    "static/js/2.6737b86d.chunk.js.LICENSE.txt": "/theguardian-test-api/static/js/2.6737b86d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41ad2fb8.js",
+    "static/js/2.6737b86d.chunk.js",
+    "static/css/main.ccb56e80.chunk.css",
+    "static/js/main.b76a978f.chunk.js"
+  ]
+}
