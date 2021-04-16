@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <SearchForm /> {/* search forom */}
-      <Buttons /> {/* navigation button */}
-      <Stories />  {/* stories*/}
+      <Buttons /> {/* navigation buttons */}
+      <Stories />  {/* stories */}
     </>
   )
 }
