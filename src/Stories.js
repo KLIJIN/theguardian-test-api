@@ -9,7 +9,7 @@ const Stories = () => {
     return <div className="loading"> </div>
   }
   return (
-    <section>
+    <section className="section"  >
       {
         hits.map(item => {
           let data = item.webPublicationDate.slice(0, 19);

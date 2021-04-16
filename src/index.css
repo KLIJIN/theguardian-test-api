@@ -120,7 +120,7 @@ Search
 .search-form {
   width: 90vw;
   max-width: var(--max-width);
-  margin: 2rem auto 3rem 10rem;
+  margin: 2rem auto 3rem auto;
 }
 .form-input {
   width: 100%;

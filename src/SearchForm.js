@@ -7,7 +7,7 @@ const SearchForm = () => {
 
   return (
     <form className='search-form' onSubmit={(e) => e.preventDefault()}>
-      <h2>search  news</h2>
+      <h2>search news</h2>
       <input type='text' className='form-input' placeholder="search news by Content" value={query} onChange={(e) => handleSearch(e.target.value)} />
     </form>
   )
